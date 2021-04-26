@@ -20,7 +20,7 @@ export enum BaasTransferCode {
    */
   BT0005 = 'BT0005',
   /**
-   * Registro rejeitado - Agência ou Conta do Dédito Inválida
+   * Registro rejeitado - Agência ou Conta do Débito Inválida
    */
   BT0006 = 'BT0006',
   /**
