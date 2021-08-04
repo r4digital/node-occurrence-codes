@@ -28,6 +28,10 @@ export enum BaasTransferCode {
    */
   BT0007 = 'BT0007',
   /**
+   * Código de banco inválido
+   */
+  BT0008 = 'BT0008',
+  /**
    * Erro genérico
    */
   BT9999 = 'BT9999'
