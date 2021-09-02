@@ -32,6 +32,10 @@ export enum BaasBillPaymentCode {
    */
   BBP0008 = 'BBP0008',
   /**
+   * Cancelamento não permitido
+   */
+  BBP0009 = 'BBP0009',
+  /**
    * Erro genérico
    */
   BBP9999 = 'BBP9999'
