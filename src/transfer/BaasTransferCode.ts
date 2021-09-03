@@ -34,7 +34,7 @@ export enum BaasTransferCode {
   /**
    * Registro rejeitado - Mensagem fora do horário de operação
    */
-  BT0006 = 'BT0009',
+  BT0009 = 'BT0009',
   /**
    * Erro genérico
    */
