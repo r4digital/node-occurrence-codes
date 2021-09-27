@@ -40,6 +40,10 @@ export enum BaasTransferCode {
    */
   BT0010 = 'BT0010',
   /**
+   * Transferência devolvida com sucesso
+   */
+  BT0011 = 'BT0011',
+  /**
    * Erro genérico
    */
   BT9999 = 'BT9999'
