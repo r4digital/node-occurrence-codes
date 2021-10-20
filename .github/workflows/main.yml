@@ -18,10 +18,8 @@ jobs:
         with:
           registry-url: 'https://registry.npmjs.org'
         name: Setup Node.js environment
-      - run: npm install
+      - run: npm ci
         name: Install Node dependencies
-      - run: npm build
-        name: Build typescript
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
