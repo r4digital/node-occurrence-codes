@@ -6,7 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased] - yyyy-mm-dd
-
+- Added new codes:
+  - PIX0001 - Created
+  - PIX0002 - Confirmed
+  - PIX0003 - Not confirmed
+  - PIX0004 - Rejected
+  - PIX0005 - Done
+  - PIX0006 - Cancelled
 ## [1.0.2] - 2021-04-15
 ### Added
  - Adicionados códigos:
