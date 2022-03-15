@@ -30,5 +30,5 @@ export enum BaasPixCode {
   /**
    * Timeout
    */
-  PIX0008 = "PIX0007",
+  PIX0008 = "PIX0008",
 }
