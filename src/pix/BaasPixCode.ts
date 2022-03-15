@@ -23,4 +23,12 @@ export enum BaasPixCode {
    * Cancelado
    */
   PIX0006 = "PIX0006",
+  /**
+   * Saldo Insuficiente
+   */
+  PIX0007 = "PIX0007",
+  /**
+   * Timeout
+   */
+  PIX0008 = "PIX0007",
 }
