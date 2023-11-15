@@ -5,7 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased] - yyyy-mm-dd
+## [1.2.0] - 2023-11-15
+
+- Added new codes:
+  - BI0001 - Created
+  - BI0002 - Confirmed
+  - BI0003 - Not confirmed
+  - BI0004 - Processed
+  - BI0005 - Done
+  - BI0006 - Insufficient balance
+
+## [1.1.4] - 2022-03-21
 
 - Added new codes:
   - PIX0001 - Created
