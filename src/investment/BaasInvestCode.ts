@@ -23,4 +23,8 @@ export enum BaasInvestCode {
    * Insufficient balance
    */
   BI0006 = "BI0006",
+  /**
+   * Unexpected error
+   */
+  BI0500 = "BI0500",
 }
