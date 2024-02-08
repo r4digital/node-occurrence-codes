@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.2.0] - 2023-11-15
 
+- Added new code:
+  - BI0007 - Product not found
+
+## [1.2.0] - 2023-11-15
+
 - Added new codes:
   - BI0001 - Created
   - BI0002 - Confirmed

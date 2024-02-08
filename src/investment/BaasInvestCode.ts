@@ -24,6 +24,10 @@ export enum BaasInvestCode {
    */
   BI0006 = "BI0006",
   /**
+   * Product not found
+   */
+  BI0007 = "BI0007",
+  /**
    * Unexpected error
    */
   BI0500 = "BI0500",
