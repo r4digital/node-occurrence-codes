@@ -1,6 +1,6 @@
 {
   "name": "@r4digital/occurrence-codes",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Occurrence enum codes",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
